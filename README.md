@@ -1,8 +1,9 @@
-## Hi! I'm Rahman Khan A
--BCA student focused on frontend development and building clean, interactive user interfaces.
--Strong problem-solving mindset with adaptability and collaborative work experience.
--Passionate about creating structured and user-friendly digital experiences.<br>
--Currently open to entry-level opportunities in frontend and software development. Committed to continuous learning and delivering quality solutions.
+## Hi! I'm Rahman Khan A  
+
+- BCA student focused on frontend development and building clean, interactive user interfaces.  
+- Strong problem-solving mindset with adaptability and collaborative work experience.  
+- Passionate about creating structured and user-friendly digital experiences.   
+- Committed to continuous learning and delivering quality solutions.  
 
 
 ## 🌐 Socials:
